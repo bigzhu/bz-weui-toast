@@ -1,6 +1,5 @@
 <style lang=less>
   .weui_toast i.icon {
-    padding-top: 1em;
     font-size: 3em;
   }
   .weui_toast_content {
