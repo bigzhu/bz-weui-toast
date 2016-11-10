@@ -1,4 +1,4 @@
-<style lang=less>
+<style>
   .weui_toast i.icon {
     font-size: 3em;
   }
