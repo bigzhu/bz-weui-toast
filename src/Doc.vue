@@ -5,7 +5,6 @@
       :parm_desc="parm_desc"
       :parms="parms"
       :code="code"
-      :call_back="call_back"
       >
       <bz type="warning">出错了</bz>
     </doc>
